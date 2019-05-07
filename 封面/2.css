@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.tetx img{
+	width:1863px;
+}
+.tox{
+	float:inherit;
+	margin-left: 803px;
+	margin-top: -850px;
+}
+.tox img{
+	width: 256px;
+}
+.tox img:hover{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+.gufe{
+	float:inherit;
+	margin-left: 810px;
+	margin-top: 190px;
+}
+.gufe img{
+	width: 210px;
+}
+.shoye{
+	float:inherit;
+	margin-left: 683px;
+	margin-top: -980px;
+}
+.shoye img{
+	width: 190px;
+}
+.zhiye{
+	float:inherit;
+	margin-left: 400px;
+	margin-top:250px;
+}
+.zhiye img{
+	width: 195px;
+}
+.xiance{
+	float:inherit;
+	margin-left: 1360px;
+	margin-top:-zpx;
+}
+.xiance img{
+	width: 170px;
+}
+.qita{
+	float:inherit;
+	margin-left: 1150px;
+	margin-top:-610px;
+}
+.qita img{
+	width: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

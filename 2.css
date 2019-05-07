@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.nve{
+	width: 1863px;
+	height: 1497px;
+	background-color:#00c4c5;
+}
+.yeto{
+	width: 1863px;
+	height: 180px;
+	background: url(页头.jpg);
+	background-color:#007b7d;
+}
+.yeto img{
+	width: 130px;
+	margin-left: 60px;
+	margin-top: 24px;
+}
+.yeto img:hover{
+	transform: rotate(360deg);
+    transition: 1s;
+}
+.wezi{
+	margin-left: 220px;
+	margin-top:-100px;
+	
+}
+.wezi{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 20px;
+}
+
+.fele{
+	margin-left: 500px;
+	margin-top: -160px;
+}
+
+.fele ul li{
+	list-style: none;
+	float: left;
+	margin-left: 150px;
+	margin-top: 100px;
+	color: #FFFFFF;
+	font-size: 25px;
+}
+.fele ul li:hover{
+	font-size:26px;
+	color:#47C8C9;
+	
+}
+.ztn{
+	width: 1863px;
+	height: 860px;
+	background: url(内容_03.jpg)
+}
+.ztn img{
+	width:1863px;
+	height: 860px;
+}
+div.ztn{ 
+	float:left;
+}
+div.ztn img{
+	transition:opacity 2s;
+	opacity:0;
+}
+div.ztn img:hover{
+	opacity:1;
+}
+.one{
+	width:620px;
+	height: 464px;
+	margin-top: 852px;
+	background: url(01.jpg)
+}
+.two{
+	width:620px;
+	height: 455px;
+	margin-left: 620px;
+	margin-top: -456px;
+	background: url(02.jpg)
+}
+.six{
+	width:623px;
+	height: 457px;
+	margin-left: 1240px;
+	margin-top: -455px;
+	background: url(01.jpg)
+}
+.one h1{
+	float:left;
+	margin-top: 85px;
+	margin-left: 270px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+.one ul{
+	list-style: none;
+	float:left;
+	margin-top: 35px;
+	margin-left: 250px;
+	color: #FFFFFF;
+}
+.one  li{
+	margin-top: 25px;
+    font-size: 25px;
+}
+.one ul li:hover{
+	color:#47C8C9;
+}
+
+.two h1{
+	float:left;
+	margin-top: -40px;
+	margin-left: 270px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+.two ul{
+	list-style: none;
+	float:left;
+	margin-top: 35px;
+	margin-left: 250px;
+	color: #FFFFFF;
+}
+.two  li{
+	margin-top: 25px;
+    font-size: 25px;
+}
+.two ul li:hover{
+	color:#27E9F4;
+}
+.six h1{
+	float:left;
+	margin-top: -40px;
+	margin-left: 240px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+.six ul{
+	list-style: none;
+	float:left;
+	margin-top: 35px;
+	margin-left: 270px;
+	color: #FFFFFF;
+}
+.six li{
+	margin-top: 25px;
+    font-size: 25px;
+}
+.six ul li:hover{
+	color:#47C8C9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
